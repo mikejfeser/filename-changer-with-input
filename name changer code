@@ -1,0 +1,2 @@
+newName = input("Enter file name add-on:")
+print("new name is: " + newName)
