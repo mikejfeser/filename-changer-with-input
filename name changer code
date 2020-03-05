@@ -1,7 +1,7 @@
 import os
 #you'll need the os module for renaming files
 
-os.chdir('C:/Users/You/folderYourEditing')
+os.chdir('C:/Users/You/folderYouAreEditing')
 #this sets your directory to the folder containing the files you want to rename
 
 newName = input("Enter file name add-on:")
